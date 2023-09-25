@@ -1,5 +1,5 @@
 - Embedded
-- C/C++
+- C/C++ Python JavaScript
   
 <!---
 GrigorHeit/GrigorHeit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
